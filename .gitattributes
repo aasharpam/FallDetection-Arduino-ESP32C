@@ -1,3 +1,7 @@
 *.cpp linguist-language=Arduino
 *.h linguist-language=Arduino
+*.hpp linguist-language=Arduino
 *.ino linguist-language=Arduino
+
+libraries/** linguist-vendored
+build/** linguist-vendored
