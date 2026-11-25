@@ -32,7 +32,7 @@ The alarm is five beeps (200 ms on, 100 ms off) on the buzzer.
 
 ## Bill of Materials (BOM)
 
-> **Note:** Get the BOM file (list of components needed to build this project) from [https://www.aasharpam.com/project-fall-detection.html](https://www.aasharpam.com/project-fall-detection.html).
+> **Note:** Get the BOM file (list of components needed to build this project) from [https://www.aasharpam.com/project-fall-detection.html] (https://www.aasharpam.com/project-fall-detection.html).
 
 ## Project structure
 
