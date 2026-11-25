@@ -2,6 +2,7 @@
  * Buzzer.h
  * Buzzer setup and fall alarm pattern
  *
+ *
  * Project : Fall Detection Device (ESP32 + MPU6050 + Buzzer)
  * Author  : Aashar Pamidiparti
  * Date    : May 2025
